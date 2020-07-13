@@ -4,7 +4,7 @@
 #
 Name     : pytest-flake8
 Version  : 1.0.6
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/3d/4f/dcd73f558ee43d9f83ed0c92eb13fb64c7c96f54606171bfbf8dbac5182b/pytest-flake8-1.0.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3d/4f/dcd73f558ee43d9f83ed0c92eb13fb64c7c96f54606171bfbf8dbac5182b/pytest-flake8-1.0.6.tar.gz
 Summary  : pytest plugin to check FLAKE8 requirements
